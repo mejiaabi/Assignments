@@ -11,6 +11,6 @@
 .btn:hover{
     text-shadow: 3px 3px black;
     box-shadow: 2px 2px black;
-    /* TODO: hover effect.  Don't forget transitions in the .btn class */
+    
 
 }
